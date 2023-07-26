@@ -1,1 +1,8 @@
-{name:"abdo", age:29}
+{
+  "kty": "RSA",
+  "n": "1reSkPXLGi9lFIRNmRU_Mlfji1ohY4JW70nUcQ1715d-ZxGJMFtZqw9YxdVO-wclpg12vHl3TzIle84XQwcK2OsEVIS7Q6C-73HQgpkcTOEw_tfcJRdaMpT7mlQ5Oaz7ll9IDj1yGae2sBjhsgyikOpkrMT30kBNj2aOm-hYgfq8KRwJg_Yci0zVgEPvnfoWFYf0ArEpcCgNYVLfJ5bkzCIohDwMMtkFS2T3KAHJdtjKU_BL9t5QJK0-KP_EkgovZ-6kKYhHj5zy9_-ejasjFZalDWsFtHO7ZVIFMtbPziu2kNfDKXCIzuN8Jhq0ovOTDrWgjJXjJ42mCjqqEPjgkQ",
+  "e": "AQAB",
+  "alg": "RS256",
+  "kid": "cle",
+  "use": "sig"
+}
